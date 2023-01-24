@@ -2,3 +2,5 @@ An app that generates colour in all shades. The user can add RGB, hx or simply t
 
 You will need to install Value.js as
 npm i value.js
+
+![alt text](homepage.jpg)
